@@ -1,3 +1,3 @@
 # SpotifyAPI
 
-[x] Logan
+- [x] Logan
